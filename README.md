@@ -1,6 +1,6 @@
 # Spectral data visualisation dashboard
 
-NOTE: Currently WIP! Only a Jupyter Notebook is available
+NOTE: Currently WIP! Only a Jupyter Notebook is available, which is still incomplete. Basic functionality for Perkin-Elmer `.fsm` files do exist already.
 
 ---
 
